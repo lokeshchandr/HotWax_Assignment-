@@ -1,1 +1,1 @@
-Assignment one of PArt one MySql workshop
+Assignment one of Part one MySql workshop
